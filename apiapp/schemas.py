@@ -39,5 +39,5 @@ class ProductModel(BaseModel):
     price: float
 
 
-class SWTModel(BaseModel):
-    authjwt_secret_key: str = 'd8d5caf1c6b69305528e79caa80f1c7b8fd3e17038e2e654c213a4d893d04359'
+# class SWTModel(BaseModel):
+#     authjwt_secret_key: str = 'd8d5caf1c6b69305528e79caa80f1c7b8fd3e17038e2e654c213a4d893d04359'
